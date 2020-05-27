@@ -1,3 +1,6 @@
+# Resources: https://www.youtube.com/watch?v=59Hbtz7XgjM
+
+
 import numpy as np
 from data_prep import features, targets, features_test, targets_test
 
